@@ -5,8 +5,8 @@
 		{
 			"name": "r/Scotland design",
 			"sources": ["https://raw.githubusercontent.com/heliodex/scotland-place/main/template.png"],
-			"x": -338,
-			"y": -259
+			"x": 162,
+			"y": 241
 		}
 	],
 	"whitelist": [],
