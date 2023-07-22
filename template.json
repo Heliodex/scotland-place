@@ -4,7 +4,7 @@
 	"templates": [
 		{
 			"name": "r/Scotland design",
-			"sources": ["https://files.heliodex.cf/ap-aye.png?r=1337"],
+			"sources": ["https://raw.githubusercontent.com/heliodex/scotland-place/main/template.png"],
 			"x": -338,
 			"y": -259
 		}
