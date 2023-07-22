@@ -1,0 +1,14 @@
+{
+	"faction": "r/Scotland",
+	"contact": "Heliodex u/Heliodex heliodex.cf heli@odex.cf",
+	"templates": [
+		{
+			"name": "r/Scotland design",
+			"sources": ["https://files.heliodex.cf/ap-aye.png?r=1337"],
+			"x": -338,
+			"y": -259
+		}
+	],
+	"whitelist": [],
+	"blacklist": []
+}
