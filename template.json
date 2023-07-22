@@ -1,14 +1,67 @@
 {
-	"faction": "r/Scotland",
-	"contact": "Heliodex u/Heliodex heliodex.cf heli@odex.cf",
-	"templates": [
-		{
-			"name": "r/Scotland design",
-			"sources": ["https://files.heliodex.cf/ap-aye.png?r=1337"],
-			"x": -338,
-			"y": -259
-		}
-	],
-	"whitelist": [],
-	"blacklist": []
+    "faction": "/r/omori",
+    "contact": "omocord",
+    "notifications": "?????",
+    "templates": [
+        {
+            "name": "OMORI Picnic Table",
+            "sources": [
+                "https://github.com/sunryze-git/omoriplace2023/blob/main/output.png?raw=true"
+            ],
+            "x": 197,
+            "y": 241
+        },
+        {
+            "name": "Canadian Flag",
+            "sources": [
+                "https://d35ule242s0wem.cloudfront.net/overlay.plain.png"
+            ],
+            "x": 590,
+            "y": 665
+        },
+        {
+            "name": "OMORI Portrait Preparations 1",
+            "sources": [
+                "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/second.png"
+            ],
+            "x": 1700,
+            "y": 132
+        },
+        {
+            "name": "OMORI Portrait Preparations 2",
+            "sources": [
+                "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/second.png"
+            ],
+            "x": 1174,
+            "y": 1200
+        },
+        {
+            "name": "OMORI Portrait Preparations 3",
+            "sources": [
+                "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/second.png"
+            ],
+            "x": -102,
+            "y": 132
+        },
+        {
+            "name": "OMORI Portrait Preparations 4",
+            "sources": [
+                "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/second.png"
+            ],
+            "x": 1100,
+            "y": -300
+        }
+    ],
+    "whitelist": [
+        {
+            "name": "r/hatsune",
+            "url": "https://hatsune.proxnet.dev/place/overlayRaw"
+        }
+    ],
+    "blacklist": [
+        {
+            "name": "r/omori",
+            "url": "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/omoriplace.json"
+        }
+    ]
 }
